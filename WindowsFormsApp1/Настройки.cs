@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Настройки : Form
     {
+        //Добавил в настройки
         public Настройки()
         {
             InitializeComponent();
