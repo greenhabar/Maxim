@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Главноеменю : Form
     {
+        //Добавил в главное меню
         Настройки sett;
         public Главноеменю()
         {
