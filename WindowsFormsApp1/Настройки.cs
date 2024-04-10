@@ -14,6 +14,7 @@ namespace WindowsFormsApp1
     {
         //Добавил в настройки
         //Добавил еще в настройки
+        //Добавил еще больше в настройки
         public Настройки()
         {
             InitializeComponent();
